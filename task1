@@ -1,0 +1,14 @@
+Task 1
+----------------
+Let us start with creating instances in AWS/Azure
+Create 2 instances i.e - redhat and ubuntu.
+
+In UBUNTU lets install mysql and postgress server
+For installation follow the steps from following links
+https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04
+
+
+
+Install Remote Web Servers
+  For this we have to install HTTPD (Apache) in redhat and install nginix in ubuntu
